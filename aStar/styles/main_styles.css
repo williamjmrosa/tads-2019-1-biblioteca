@@ -1055,7 +1055,8 @@ section
 {
 	font-size: 122px;
 	font-weight: 700;
-	color: #414141;
+	color: #8B4513;
+	/*color: #414141;*/
 	line-height: 0.75;
 }
 .home_discount_num::after
@@ -1064,7 +1065,6 @@ section
 	position: absolute;
 	top: -3px;
 	left: 100%;
-	content: '%';
 	font-size: 72px;
 	font-weight: 700;
 }
